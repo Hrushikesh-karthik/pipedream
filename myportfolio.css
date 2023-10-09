@@ -1,0 +1,38 @@
+.tiger{
+    position: relative;
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    text-decoration: none;
+    background-color: blanchedalmond;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin:10px 20px;
+    font-weight: bold;
+    
+}
+nav ul li a:hover{
+    color:red;
+}
+.hii{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+span{
+    color:blue;
+}
+.images{
+    width: 45%;
+    height:80%;
+    position: absolute;
+    bottom: 0;
+    right:100px;
+}
+p{
+    font-size: larger;
+}
